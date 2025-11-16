@@ -1,0 +1,182 @@
+body{
+ 
+    background-color: rgb(27, 27, 27);
+}    
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    
+    margin-top: 70px;
+    margin-right: 200px;
+
+}
+
+h2{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    text-align: left;
+}
+
+h3{
+  
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+
+h4{
+color: rgb(255, 0, 0);
+    font-size: 25px;
+}
+
+h5{
+color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+h6{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align:left ;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+
+}
+p{
+    color: aliceblue;
+}
+.p1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+}
+.p2{
+    color: rgb(255, 0, 0);
+}
+hr{
+    border: 2px solid;
+    color: rgb(0, 0, 0);
+    margin: 5px 1px;
+    
+}
+
+.button1{
+    color: rgb(13, 0, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px ;
+    border-color: rgb(255, 37, 37);
+    text-align: center;
+    align-self: center;
+}
+textarea{
+    color: rgb(255, 255, 255);
+    background-color: rgb(13, 0, 255);
+    padding: 8px 250px;
+}
+.button4{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-radius: 15px;
+}
+.class3{
+    color: rgb(8, 0, 255);
+}
+
+
+.div1{
+    margin: 15px;
+    padding: 0px;
+    border: px solid rgb(183, 0, 0);
+    background-color: rgb(19, 19, 19);
+    text-align: center;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    border-radius: 15px;
+}
+.div2{
+    margin: 15px;
+    padding: 10px 10px;
+    border: px solid rgb(183, 0, 0);
+    background-color: rgb(16, 16, 16);
+    text-align: center;
+    font-size: 20px;
+    color: rgb(240, 0, 0);
+    font-style: initial;
+    border-radius: 15px;
+    border-right: 20px;
+    margin-top: 10px;
+     background: linear-gradient(to right, #ff8800, #212121 );
+    
+}
+
+
+.div5{
+    margin: 15px;
+    padding: 2px 10px;
+    border: px solid rgb(183, 0, 0);
+    background-color: rgb(55, 55, 55);
+    text-align: left;
+    font-size: 60px;
+    color: rgb(240, 0, 0);
+    font-style: initial;
+    border-radius: 0px;
+}
+.div3{
+    
+    padding: px 25px;
+    border: px solid rgb(52, 52, 52);
+    background-color: rgb(16, 16, 16);
+    text-align: center;
+    font-size: 20px;
+    color: rgb(240, 0, 0);
+    border-radius: 15px;
+   
+   
+    margin-top: 0px;
+    margin-right:20px;
+    margin-left: 10px;
+  
+    
+  width: 350px;
+  height: 200px;
+  background: linear-gradient(to top, rgb(35, 35, 35) 50%, rgb(69, 69, 69) 50%);
+}
+.p3{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.div7{
+    margin: 15px;
+    padding: 2px 5px;
+    border: px solid rgb(183, 0, 0);
+    background-color: rgb(0, 0, 0);
+    text-align: left;
+    font-size: 40px;
+    color: rgb(240, 0, 0);
+    font-style: initial;
+    border-radius: 12px;
+}
+.div4{
+    margin: 15px;
+    padding: 15px;
+    border: px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    color: rgb(240, 0, 0);
+    font-style: initial;
+    border-radius: px;
+} 
+.section1{
+    color: aliceblue;
+    background-color: aliceblue;
+    padding-left: 20px;
+}
+.hr1{
+    color: rgb(255, 149, 0);
+}
